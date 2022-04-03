@@ -1,0 +1,8 @@
+{
+  "name": "test-jenkins",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:dansiberry/test-jenkins.git",
+  "author": "Dan <dan@evolution7.com.au>",
+  "license": "MIT"
+}
